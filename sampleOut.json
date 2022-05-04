@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "University of Michigan reaches $490 million settlement in Robert Anderson abuse case",
+            "description": "The University of Michigan has agreed to a $490 million settlement with hundreds of people who say they were sexually assaulted by a former sports doctor at the school.",
+            "url": "http://espn.go.com/college-sports/story/_/id/33099240/university-michigan-reaches-490-million-settlement-robert-anderson-abuse-case",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0713%2Fr718825_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-19T13:31:00Z",
+            "content": "The University of Michigan has agreed to a $490 million settlement with hundreds of people who say they were sexually assaulted by a former sports doctor at the school.\r\nAttorney Parker Stinar said W… [+552 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Jeff Tracy",
+            "title": "Report: Sports stadium boom incoming",
+            "description": "The pandemic has shifted fans' expectations about venue offerings, which require major overhauls.",
+            "url": "https://www.axios.com/sports-stadium-boom-incoming-35f45267-e2c2-48be-8c12-76731cb2124a.html",
+            "urlToImage": "https://images.axios.com/6xV_smRzw7s8ZnoWLmuUiOJvaN4=/0x0:1920x1080/1366x768/2022/01/19/1642597567909.jpg",
+            "publishedAt": "2022-01-19T13:07:23Z",
+            "content": "Stadium and arena construction in North America will total a relatively tame $5.8 billion this year, a 12% decrease from 2021.\r\nYes, but: What the industry lacks in construction it expects to make up… [+1300 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Nick Saban, others urge Manchin to help pass voting rights bill",
+            "description": "University of Alabama head football coach Nick Saban and other prominent sports figures with ties to West Virginia have urged U.S. Sen. Joe Manchin to support sweeping legislation to protect the right to vote.",
+            "url": "https://www.foxnews.com/sports/nick-saban-others-urge-manchin-to-protect-voting-rights",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/AP22011021766416.jpg",
+            "publishedAt": "2022-01-19T12:52:19.3059023Z",
+            "content": "University of Alabama head football coach Nick Saban and other prominent sports figures with ties to West Virginia have urged U.S. Sen. Joe Manchin to support sweeping legislation to protect the righ… [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Zoe Zoe",
+            "title": "Voting rights: Nick Saban among sports icons to sign letter asking Joe Manchin to support legislation",
+            "description": "The letter was also signed by other sports icons.",
+            "url": "https://www.cbsnews.com/news/voting-rights-nick-saban-joe-manchin-letter/",
+            "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2022/01/18/29236fd7-2c41-4a3d-9c42-7b99285a97a2/thumbnail/1200x630/88ed0aaad8e59525375930b19a6039a0/untitled-design-21.jpg",
+            "publishedAt": "2022-01-19T12:42:54+00:00",
+            "content": "Several major sports icons have signed a letter calling on Senator Joe Manchin to support election integrity legislation. The letter — signed by University of Alabama football coach Nick Saban, forme… [+2949 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": " New Gridiron Heights",
+            "description": "Brady, Burrow and more hit the tables at the all new Gridiron Heights Sportsbook ",
+            "url": "https://bleacherreport.com/post/hero-3/a561e8ce-2876-4707-b77e-ea0d9b039130",
+            "urlToImage": "https://img.bleacherreport.net/cms/media/image/ae/41/d9/49/ea50/469b/a762/bc82ada95b03/crop_exact_gh16_thumb_WIDE.jpg?h=1080&q=90&w=1920",
+            "publishedAt": "2022-01-19T05:52:22.981582Z",
+            "content": "Brady, Burrow and more hit the tables at the all new Gridiron Heights Sportsbook"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Special Section: District of Sports Podcast",
+            "description": "Washington Times sports reporters Matthew Paras, Jacob Calvin Meyer, and George Gerbo get together bi-weekly for a discussion on the latest storylines, details, and trends in the world of D.C. sports.",
+            "url": "https://www.washingtontimes.com/specials/district-sports-podcast/",
+            "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/DOSthumbnailV2.jpg",
+            "publishedAt": "2022-01-18T22:37:32.4983735Z",
+            "content": "Washington Times sports reporters Matthew Paras, Jacob Calvin Meyer, and George Gerbo get together bi-weekly for a discussion on the latest storylines, details, and trends in the world of D.C. sports… [+2025 chars]"
+        },
+        {
+            "source": {
+                "id": "reddit-r-all",
+                "name": "Reddit /r/all"
+            },
+            "author": null,
+            "title": "r/sports - [Highlight] Eli: Let's go to Peyton.\" Peyton: \"I can't hear sh*t\" Eli: \"Never mind\"",
+            "description": "15,672 votes and 294 comments so far on Reddit",
+            "url": "https://www.reddit.com/r/sports/comments/s6lm0q/highlight_eli_lets_go_to_peyton_peyton_i_cant/",
+            "urlToImage": "https://external-preview.redd.it/o7wyNx3uOBQqvpNJ_Ap_YIjJiRP8nQ7JkG5Bl9UQif8.png?format=pjpg&auto=webp&s=ad303fd785713e4bf9c2694d328d9ed0f1f5f844",
+            "publishedAt": "2022-01-18T05:37:40.717789Z",
+            "content": "Join Our Discord Server!\r\nWelcome to r/sports\r\nWe created a Discord server for our community and would like to invite all of you to join! You'll be able to discuss sports with users around the world … [+287 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
